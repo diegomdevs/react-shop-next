@@ -1,0 +1,44 @@
+{
+  "name": "platzistore",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "eslint src/ --fix"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "next": "12.1.0",
+    "next-pwa": "^5.4.5",
+    "prettier": "^2.5.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.49.8"
+  },
+  "devDependencies": {
+    "eslint": "8.9.0",
+    "eslint-config-next": "^12.1.0"
+  },
+  "description": "<p>Platzi-Store is an Ecommerce. Built in the NextJS course :)</p>",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegomdevs/platzi-store.git"
+  },
+  "keywords": [
+    "nextjs",
+    "pwa"
+  ],
+  "author": "Diego González <diegom.develops@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegomdevs/platzi-store/issues"
+  },
+  "homepage": "https://github.com/diegomdevs/platzi-store#readme"
+}
