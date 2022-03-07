@@ -40,6 +40,12 @@ npm install
 
 1) To run program succesfully, keep `next.config.js`, `jsconfig.json` and `prettier.config.js`.
 
+### App
+
+This App is deployed here: [React-Shop](https://nextjs-course-gray-chi.vercel.app/).
+
+![React-Shop](blob:https://vercel.com/83b2c3e0-2f4b-4cce-886b-e6befb38a94f)
+
 ### Author
 
 > **Diego González** - Software Engineer
